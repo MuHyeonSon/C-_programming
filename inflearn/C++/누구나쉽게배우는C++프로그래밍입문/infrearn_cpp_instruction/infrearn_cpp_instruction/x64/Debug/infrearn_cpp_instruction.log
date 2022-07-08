@@ -1,0 +1,3 @@
+﻿  소스1.cpp
+C:\Users\손창익\Desktop\Develope\인프런\C++\누구나쉽게배우는C++프로그래밍입문\infrearn_cpp_instruction\infrearn_cpp_instruction\소스1.cpp(50,5): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+C:\Users\손창익\Desktop\Develope\인프런\C++\누구나쉽게배우는C++프로그래밍입문\infrearn_cpp_instruction\infrearn_cpp_instruction\소스1.cpp(23): message : 'main'의 이전 정의를 참조하십시오.
